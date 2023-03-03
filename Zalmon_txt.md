@@ -111,6 +111,8 @@ Everyone can make a monster feel dangerous, can you make a square feel dangerous
 	</li>
 </ol>
 
+--- 
+#Other
 
 ### Image Captions
 
