@@ -19,25 +19,25 @@ We’ll start off with the basics and get to more in-depth questions later on.
 ## Questions (part 1)
 <ol>
 <li>
-Q: What media and tools do you like to work with most? <br>
+	<strong> Q: What media and tools do you like to work with most?</strong> <br>
 	
 A: Hard round brush, aliased bucket fill, random noise.
 	</li><br>
 	
 <li>
-Q: Can you tell us a little about your process?  <br>
+<strong> Q: Can you tell us a little about your process?  </strong><br>
 	
 A: I spend a long, long, long time getting reference and pondering over the design. If it doesn't look good in my head, it won't look good anywhere. I make sure to have a good silhouette and value distribution. Then I enter ape brain art machine flow state and just draw. If I find a roadblock I return to step one and repeat as many times as needed. 90% of my process is imagination, so I have no idea how people with aphantasia do it. 
 	</li> <br>
 
 <li>
-Q:  Which piece(s) in your Portfolio are you most proud of?
+	<strong>Q:  Which piece(s) in your Portfolio are you most proud of?</strong> <br>
 
 A: The animation with the robot and spaceship.
 	</li><br>
 
 <li>
-Q: Any recollection you’d like to share about your early creative efforts, or about what shaped your particular style or interests? <br>
+<strong> Q: Any recollection you’d like to share about your early creative efforts, or about what shaped your particular style or interests?<strong> <br>
 	
 A: At 17 I decided to draw a comic as cool as Dead Leaves, FLCL or Redline. I was still amateurish back then - of course I couldn't - so I redrew it over four or five times and kept practicing until I could. It took several years, and by the end it was still not as cool as the inspirations, but cool enough. It was a huge part of how I got good.
 	</li><br>
