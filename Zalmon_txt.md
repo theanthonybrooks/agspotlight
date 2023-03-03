@@ -17,13 +17,15 @@ We’ll start off with the basics and get to more in-depth questions later on.
 
 
 ## Questions (part 1)
-
+<ol>
+<li>
 Q: **What media and tools do you like to work with most?** <br>
 A: Hard round brush, aliased bucket fill, random noise.
-
+	</li>
+<li>
 Q: **Can you tell us a little about your process?** <br>
 A: I spend a long, long, long time getting reference and pondering over the design. If it doesn't look good in my head, it won't look good anywhere. I make sure to have a good silhouette and value distribution. Then I enter ape brain art machine flow state and just draw. If I find a roadblock I return to step one and repeat as many times as needed. 90% of my process is imagination, so I have no idea how people with aphantasia do it. 
-
+	</li>
 
 Q:  Which piece(s) in your Portfolio are you most proud of?
 
@@ -52,6 +54,6 @@ If you could give advice to young artists about the personal aspects of making a
 Look as hard as you can. Pick a random country and figure out what they do. Pick a random century. A random country and century. Pick some kind of art that people swear by but seems completely baffling to you and actively try to enjoy it. I used to despise abstract modern art with a passion and now I look up to it. Hell, I used to hate hard sci-fi, and here I am looking at research papers to draw my spaceship. Don't just look at what someone tries to sell you.
 
 
-
+</ol>
 
 
