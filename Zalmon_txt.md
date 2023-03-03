@@ -69,7 +69,7 @@ A: Look as hard as you can. Pick a random country and figure out what they do. P
 
 ## Sub-Intro 2
 
-Okay, fundamentals aside, I have a few questions to dive a bit deeper into your work and how you approach it.
+Okay, basics aside, I have a few questions to dive a bit deeper into your work and how you approach it.
 
 
 ## Questions (part 2)
@@ -110,3 +110,12 @@ A: A combination of learning more about art in general, and growing tired of rep
 Everyone can make a monster feel dangerous, can you make a square feel dangerous?
 	</li>
 </ol>
+
+
+### Image Captions
+
+<ol>
+<li>Zalmon, Monopoly on Violence
+(_Monopoly on Violence_ should be italicized as the title of an artwork and if possible, should link to the artwork on Artgram)
+	</li>
+<li>Zalmon, Brain Calibration
