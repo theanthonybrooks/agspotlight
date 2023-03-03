@@ -75,7 +75,7 @@ Okay, fundamentals aside, I have a few questions to dive a bit deeper into your 
 ## Questions (part 2)
 <ol>
 <li>
-	<strong>Q:</strong> What interests you in the mecha subjects, as well as the organic machine hybrids and do you try to tell stories with each of your pieces? If so, where do those stories and the motivation behind them come from? Each of the pieces that you shared earlier has a pretty intricate/vivid backstory, so what inspires them in your mind? <br>
+	<strong>Q: What interests you in the mecha subjects, as well as the organic machine hybrids and do you try to tell stories with each of your pieces? If so, where do those stories and the motivation behind them come from? Each of the pieces that you shared earlier has a pretty intricate/vivid backstory, so what inspires them in your mind? </strong><br>
 
 A: Drawing takes a lot of time, and I have to think about something in the meantime, so when I draw, a lot of backstory emerges from my head. Later when I make another piece, I might choose to relate it to previous works, both because it’s more fun that way and to show that I can create a consistent world that many designs fit into. 
 
