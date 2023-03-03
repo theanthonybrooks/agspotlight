@@ -9,7 +9,7 @@ Zalmon is a concept art, animation, illustration, and pixel artist currently res
 
 Zalmon is the first to be featured in Artgram’s new Artist Spotlight series, which highlights staff and community-chosen artist picks from within the Artgram website. We invite the spotlight artists to offer us a glimpse into their creative lives, so that we could gain insight into their personal sources of inspiration and artistic process.
 
-## Sub-Intro
+## Sub-Intro 1
 
 We’ll start off with the basics and get to more in-depth questions later on.
 
@@ -60,11 +60,26 @@ A:
 	</li><br>
 
 <li>
-A: If you could give advice to young artists about the personal aspects of making art and living a life enriched by art, what would you say? <br>
+Q: If you could give advice to young artists about the personal aspects of making art and living a life enriched by art, what would you say? <br>
 
-Q: Look as hard as you can. Pick a random country and figure out what they do. Pick a random century. A random country and century. Pick some kind of art that people swear by but seems completely baffling to you and actively try to enjoy it. I used to despise abstract modern art with a passion and now I look up to it. Hell, I used to hate hard sci-fi, and here I am looking at research papers to draw my spaceship. Don't just look at what someone tries to sell you.
+A: Look as hard as you can. Pick a random country and figure out what they do. Pick a random century. A random country and century. Pick some kind of art that people swear by but seems completely baffling to you and actively try to enjoy it. I used to despise abstract modern art with a passion and now I look up to it. Hell, I used to hate hard sci-fi, and here I am looking at research papers to draw my spaceship. Don't just look at what someone tries to sell you.
 	</li><br>
 
 </ol>
 
+## Sub-Intro 1
 
+Okay, fundamentals aside, I have a few questions to dive a bit deeper into your work and how you approach it.
+
+
+## Questions (part 2)
+<ol>
+<li>
+Q: What interests you in the mecha subjects, as well as the organic machine hybrids and do you try to tell stories with each of your pieces? If so, where do those stories and the motivation behind them come from? Each of the pieces that you shared earlier has a pretty intricate/vivid backstory, so what inspires them in your mind? <br>
+
+A: Drawing takes a lot of time, and I have to think about something in the meantime, so when I draw, a lot of backstory emerges from my head. Later when I make another piece, I might choose to relate it to previous works, both because it’s more fun that way and to show that I can create a consistent world that many designs fit into. 
+
+The organic machine hybrids are just a creative exercise, I wanted to design a creature that’s strange and disturbing to look at. It’s a very strong but intangible feeling so it’s enjoyable to try and grasp. 
+
+Most of my works start as a simple prompt like “an X which is Y and Z”, it’s just that when they lack a backstory, my brain fills in the void. Mecha in particular are somewhere between character and hard surface design, so they’re an interesting challenge.
+	</li><br>
