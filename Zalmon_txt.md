@@ -83,3 +83,29 @@ The organic machine hybrids are just a creative exercise, I wanted to design a c
 
 Most of my works start as a simple prompt like “an X which is Y and Z”, it’s just that when they lack a backstory, my brain fills in the void. Mecha in particular are somewhere between character and hard surface design, so they’re an interesting challenge.
 	</li><br>
+</ol>
+
+## Questions (part 3)
+<ol>
+<li>
+	<strong>Q: That makes sense. What inspired the backstory behind both the Monopoly on Violence piece and Missile Saint? Both tell a pretty strong story, in my opinion, though in different ways. Many of your pieces seem to be that way, though. There’s a lot of what feels like a mix of social commentary and your own imagination. On your website’s bio, you say, “I aim to put thought into every detail and look for inspiration in less obvious places”. What are those places, oftentimes?</strong><br>
+
+A: Missile Saint is a mix of different parts, like the holy hand grenade of Antioch, the Brahmāstra from Hindu mythology, self-mummifying monks and one photo edit I saw where a church spire or minaret, can’t remember, took off like a rocket. Monopoly on Violence does indeed have some social commentary, although it’s largely incidental to me wanting to draw alternate future cops having lunch, and to have more of a full scene rather than just designs floating in a white void. I like to mix perfectly ordinary and outlandish or speculative concepts, it makes the former more interesting and the latter more believable, without sacrificing what makes either of them good.
+
+Where I get my inspiration can’t be easily summarized, it’s different every time. The principle, I feel, is that when I draw a spaceship, I shouldn’t just reference other spaceship designs - what about an animal, a vegetable, an article of clothing, a building? One thing I can massively recommend that doesn’t get used enough, is abstract art, especially sculpture.
+	</li><br>
+
+<li>
+<strong>Q: Do you find yourself thinking of your work in abstract ways? Either early in the process or later on?</strong><br>
+
+A: All the time. What feeling do I want from this → what shapes and colors would accomplish that → how do I make these shapes and colors with readable physical elements. But the main function of referencing abstract art, in my experience, isn’t this; the main function is that you get to see forms that you won’t see in anything else.
+	</li><br>
+
+
+<li>
+<strong>Q: In an earlier response, you had mentioned that you used to despise abstract modern art with a passion and now look up to it. What led to that change of perspective/heart?</strong><br>
+
+A: A combination of learning more about art in general, and growing tired of repetitive designs. There’s a lot of incredible nuance and innovation in abstract art because it has to defend itself purely as art, it can’t rely on reference to reality.
+
+Everyone can make a monster feel dangerous, can you make a square feel dangerous?
+	</li>
