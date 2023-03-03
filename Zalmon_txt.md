@@ -37,20 +37,20 @@ A: The animation with the robot and spaceship.
 	</li><br>
 
 <li>
-<strong> Q: Any recollection you’d like to share about your early creative efforts, or about what shaped your particular style or interests?<strong> <br>
+<strong> Q: Any recollection you’d like to share about your early creative efforts, or about what shaped your particular style or interests?</strong> <br>
 	
 A: At 17 I decided to draw a comic as cool as Dead Leaves, FLCL or Redline. I was still amateurish back then - of course I couldn't - so I redrew it over four or five times and kept practicing until I could. It took several years, and by the end it was still not as cool as the inspirations, but cool enough. It was a huge part of how I got good.
 	</li><br>
 
 <li>
-Q: If you could sum up the importance and value of art and artmaking in your life, how would you describe it? <br>
+<strong> Q: If you could sum up the importance and value of art and artmaking in your life, how would you describe it?</strong> <br>
 	
 A: It's the point of being alive. I wanted to do it at age five, maybe earlier too but I can't remember. If I couldn't make art for whatever reason, I'd still try to focus on art in other ways. And really the reason why I make art, is because no one else makes the art that I want to get made. Or at least, not every kind of it. I don't really know what else there is to life.
 	</li><br>
 
 
 <li>
-Q: If you could give advice to your younger self, or to younger artists interested in a professional career, what would it be? <br>
+<strong> Q: If you could give advice to your younger self, or to younger artists interested in a professional career, what would it be? </strong><br>
 	
 A: 
 - Think about fifty times before you decide to do art for a job. It's a good choice for some but also potentially a great way to make it not fun. Is there anything else you could be doing?
@@ -60,7 +60,7 @@ A:
 	</li><br>
 
 <li>
-Q: If you could give advice to young artists about the personal aspects of making art and living a life enriched by art, what would you say? <br>
+<strong> Q: If you could give advice to young artists about the personal aspects of making art and living a life enriched by art, what would you say? </strong><br>
 
 A: Look as hard as you can. Pick a random country and figure out what they do. Pick a random century. A random country and century. Pick some kind of art that people swear by but seems completely baffling to you and actively try to enjoy it. I used to despise abstract modern art with a passion and now I look up to it. Hell, I used to hate hard sci-fi, and here I am looking at research papers to draw my spaceship. Don't just look at what someone tries to sell you.
 	</li><br>
