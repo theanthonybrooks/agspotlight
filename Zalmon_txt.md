@@ -34,7 +34,7 @@ A: I spend a long, long, long time getting reference and pondering over the desi
 Q:  Which piece(s) in your Portfolio are you most proud of?
 
 A: The animation with the robot and spaceship.
-	</li>
+	</li><br>
 
 <li>
 Q: Any recollection you’d like to share about your early creative efforts, or about what shaped your particular style or interests? <br>
