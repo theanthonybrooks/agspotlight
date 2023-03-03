@@ -117,15 +117,15 @@ Everyone can make a monster feel dangerous, can you make a square feel dangerous
 ### Image Captions
 
 <ol>
-<li>Zalmon, Monopoly on Violence ((https://artgr.am/a/plVX))<br>
+<li>Zalmon, Monopoly on Violence (https://artgr.am/a/j00v)<br>
 ("Monopoly on Violence" should be italicized as the title of an artwork and if possible, should link to the artwork on Artgram. Same logic applies to the rest.)
 	</li>
-<li>Zalmon, Brain Calibration<br>
+<li>Zalmon, Brain Calibration (https://artgr.am/a/orro)<br>
 	</li>
-<li>Zalmon, Assault et Battery<br>
+<li>Zalmon, Assault et Battery (https://salmon.atomova.eu/work/assault)<br>
 	</li>
-<li>Zalmon, Living Machines - Electronic Warfare<br>
+<li>Zalmon, Living Machines - Electronic Warfare (https://artgr.am/a/5o9d)<br>
 	</li>
-<li>Zalmon, Missile Saint<br>
+<li>Zalmon, Missile Saint (https://artgr.am/a/plVX)<br>
 	</li>
 </ol>
