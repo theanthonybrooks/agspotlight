@@ -18,8 +18,8 @@ We’ll start off with the basics and get to more in-depth questions later on.
 
 ## Questions (part 1)
 
-**What media and tools do you like to work with most?**
-Hard round brush, aliased bucket fill, random noise.
+Q: **What media and tools do you like to work with most?** <br>
+A: Hard round brush, aliased bucket fill, random noise.
 
 > Can you tell us a little about your process?
 >
