@@ -1,15 +1,15 @@
 # Zalmon (aka Salmon & Salmon the King)
 
 
-## bio
+## Bio
 
 Zalmon is a concept art, animation, illustration, and pixel artist currently residing in Warsaw, Poland. With his multifaceted skill set, Zalmon brings a unique perspective to each of his creations, showcasing his imagination and wide-ranging sources of inspiration.
 
-## intro text
+## Intro Text
 
 Zalmon is the first to be featured in Artgram’s new Artist Spotlight series, which highlights staff and community-chosen artist picks from within the Artgram website. We invite the spotlight artists to offer us a glimpse into their creative lives, so that we could gain insight into their personal sources of inspiration and artistic process.
 
-## sub-intro
+## Sub-Intro
 
 We’ll start off with the basics and get to more in-depth questions later on.
 
