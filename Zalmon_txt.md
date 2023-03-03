@@ -109,3 +109,4 @@ A: A combination of learning more about art in general, and growing tired of rep
 
 Everyone can make a monster feel dangerous, can you make a square feel dangerous?
 	</li>
+</ol>
