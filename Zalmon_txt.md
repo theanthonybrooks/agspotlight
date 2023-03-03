@@ -18,11 +18,11 @@ We’ll start off with the basics and get to more in-depth questions later on.
 
 ## Questions (part 1)
 
-** What media and tools do you like to work with most?**
+**What media and tools do you like to work with most?**
 Hard round brush, aliased bucket fill, random noise.
 
 > Can you tell us a little about your process?
-
+>
 >> I spend a long, long, long time getting reference and pondering over the design. If it doesn't look good in my head, it won't look good anywhere. I make sure to have a good silhouette and value distribution. Then I enter ape brain art machine flow state and just draw. If I find a roadblock I return to step one and repeat as many times as needed. 90% of my process is imagination, so I have no idea how people with aphantasia do it. 
 
 
